@@ -4,7 +4,7 @@ A simple yet addictive tree-growing game built with React, TypeScript, and Vite.
 
 ## 🎲 Try the Game
 
-- 🔥 **Live Demo**: [Play on Telegram](https://t.me/TreeGrowGameBot)
+- 🔥 **Live Demo**: [Play on Telegram](https://t.me/GrowTree2Earnbot?profile)
 - 🎮 **Quick Demo**:
 
 <p align="center">
