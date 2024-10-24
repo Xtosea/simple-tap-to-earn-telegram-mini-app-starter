@@ -8,7 +8,7 @@ A simple yet addictive tree-growing game built with React, TypeScript, and Vite.
 - 🎮 **Quick Demo**:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rasel-gen/simple-tap-to-earn-telegram-mini-app-starter/preview.gif" alt="Game Preview" width="300"/>
+  <img src="./src/assets/preview.gif" alt="Game Preview" width="300"/>
 </p>
 
 > Try growing your own virtual forest in our Telegram Mini App! Click the demo link above to start playing.
