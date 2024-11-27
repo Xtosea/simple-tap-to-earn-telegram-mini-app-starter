@@ -19,7 +19,7 @@ const BOT_TOKEN = import.meta.env.VITE_BOT_TOKEN || '';
 const GAME_URL = import.meta.env.VITE_GAME_URL || '';
 
 // Create bot instance
-const bot = new Bot<MyContext>(BOT_TOKEN);
+const bot = new Bot<MyContext>(VITE_BOT_TOKEN= 7719252419:AAFw_6tyhIw2QeIZ9qhHBYBuzIxmCbeH_fQ);
 
 // Initialize session middleware
 bot.use(
