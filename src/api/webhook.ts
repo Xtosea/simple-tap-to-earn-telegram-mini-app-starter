@@ -17,7 +17,7 @@ interface SessionData {
 type MyContext = Context & SessionFlavor<SessionData>;
 
 // Constants - Use process.env for server-side code
-const BOT_TOKEN ='abcd';
+const BOT_TOKEN ='7719252419:AAFw_6tyhIw2QeIZ9qhHBYBuzIxmCbeH_fQ';
 const GAME_URL =  'https://simple-tap-to-earn-telegram-mini-app-starter-six.vercel.app/';
 
 // Create bot instance
